@@ -1,3 +1,5 @@
+# For the description of different class functions/methods, please see the ppVisualization.py
+
 import threading
 from Core import MyQueue
 from Tools.logSystem import *
