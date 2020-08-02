@@ -1,3 +1,5 @@
+# For the description of different class functions/methods, please see the ppVisualization.py
+
 import math
 from math import sqrt
 from numpy import *
